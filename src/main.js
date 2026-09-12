@@ -10,7 +10,7 @@ import {
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
-const searchForm = document.querySelector('.search-form');
+const searchForm = document.querySelector('.form');
 const loadMoreBtn = document.querySelector('.load-more');
 
 let queryValue = '';
